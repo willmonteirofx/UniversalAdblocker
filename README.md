@@ -5,3 +5,5 @@ Universal Adblocker uses a well-known but little-used feature to combat the infe
 As this is a first base version, many sites and resources can be added yet, to work perfectly on any social network, adult site and etc ...
 
 To download you can go to the Releases tab that will have Source and the binary (.exe) available there.
+
+![alt text](https://i.imgur.com/UqR5xII.png)
