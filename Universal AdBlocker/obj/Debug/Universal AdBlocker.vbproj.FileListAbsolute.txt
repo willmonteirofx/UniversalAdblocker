@@ -1,0 +1,12 @@
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\bin\Debug\Universal AdBlocker.exe.config
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\bin\Debug\Universal AdBlocker.exe
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\bin\Debug\Universal AdBlocker.pdb
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\bin\Debug\Universal AdBlocker.xml
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\obj\Debug\Universal AdBlocker.vbprojAssemblyReference.cache
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\obj\Debug\Universal_AdBlocker.Form1.resources
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\obj\Debug\Universal_AdBlocker.Resources.resources
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\obj\Debug\Universal AdBlocker.vbproj.GenerateResource.cache
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\obj\Debug\Universal AdBlocker.vbproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\obj\Debug\Universal AdBlocker.exe
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\obj\Debug\Universal AdBlocker.xml
+C:\Users\Will\source\repos\Universal AdBlocker\Universal AdBlocker\obj\Debug\Universal AdBlocker.pdb
